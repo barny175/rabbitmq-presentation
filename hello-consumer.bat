@@ -1,0 +1,1 @@
+java -cp target/rabbitmq-examples-1.0-SNAPSHOT-jar-with-dependencies.jar com.certicon.barny.presentation.rabbitmq.helloworld.ConsumerKt

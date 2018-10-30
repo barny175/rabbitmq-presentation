@@ -1,4 +1,4 @@
-package com.certicon.barny.presentation.rabbitmq.example1.helloworld
+package com.certicon.barny.presentation.rabbitmq.helloworld
 
 import com.rabbitmq.client.AMQP
 import com.rabbitmq.client.DefaultConsumer
