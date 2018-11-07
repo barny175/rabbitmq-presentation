@@ -1,4 +1,4 @@
-package com.certicon.barny.presentation.rabbitmq.helloworld
+package com.certicon.barny.presentation.rabbitmq
 
 import com.rabbitmq.client.Connection
 import com.rabbitmq.client.ConnectionFactory

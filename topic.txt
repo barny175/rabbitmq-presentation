@@ -1,0 +1,17 @@
+consumer.bat events topic orders order.*
+
+consumer.bat events topic bookings booking.*
+
+consumer.bat events topic cancelations #.cancel
+
+consumer.bat events topic transports order.transport.*
+
+send events order.new order-1
+
+send events booking.new booking-X
+
+send events order.transport.new transport-1
+
+send events order.cancel order-123
+
+send events order.transport.cancel tr-ZXCZXC

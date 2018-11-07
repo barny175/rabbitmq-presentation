@@ -1,0 +1,7 @@
+consumer.bat command fanout command-1 ignored
+
+consumer.bat command fanout command-2 ignored
+
+consumer.bat command fanout command-3 ignored
+
+send command unused request-1

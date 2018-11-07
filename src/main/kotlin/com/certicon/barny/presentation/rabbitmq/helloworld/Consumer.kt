@@ -1,5 +1,6 @@
 package com.certicon.barny.presentation.rabbitmq.helloworld
 
+import com.certicon.barny.presentation.rabbitmq.newConnection
 import com.rabbitmq.client.AMQP
 import com.rabbitmq.client.DefaultConsumer
 import com.rabbitmq.client.Envelope

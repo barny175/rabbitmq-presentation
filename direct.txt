@@ -1,0 +1,11 @@
+consumer.bat orders direct new-orders order.new
+
+consumer.bat orders direct order-cancel order.cancel
+
+consumer.bat orders direct order-modify order.modify
+
+send orders order.new order-1
+
+send orders order.modify order-1
+
+send orders order.cancel order-1 
